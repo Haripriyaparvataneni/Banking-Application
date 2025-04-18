@@ -2,7 +2,7 @@
 💳 BankingApplication
 A simple command-line Java application that simulates basic banking operations like deposit, withdrawal, and transaction history. This project is great to understand Java classes, objects, methods, and control flow.
 
-📌 Features:
+**📌 Features:**
 
 ✅ Check current account balance
 
@@ -14,7 +14,7 @@ A simple command-line Java application that simulates basic banking operations l
 
 🚪 Exit the application
 
-🛠️ Technologies Used:
+**🛠️ Technologies Used:**
 
 Java (JDK 8+)
 
